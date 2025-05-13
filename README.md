@@ -11,10 +11,4 @@ This Application predicts human screams in sound file
 * the main idea to develop such type of application was to reduce crime rate.
 
 
-## Have a look on it here:
-![alt text](https://github.com/themockingjester/Human_Scream_Detection_using_ml_and_deep_learning/blob/main/gifs%20for%20github/certificate%20of%20research%20paper.jpg)<br>
-![alt text](https://github.com/themockingjester/Human_Scream_Detection_using_ml_and_deep_learning/blob/main/gifs%20for%20github/demo1.gif)<br>
-![alt text](https://github.com/themockingjester/Human_Scream_Detection_using_ml_and_deep_learning/blob/main/gifs%20for%20github/demo2.gif)
-
-
 
